@@ -14,7 +14,8 @@ This should install the `improved_diffusion` python package that the scripts dep
 
 ## Data Preparation and Pre-Trained Checkpoints
 
-A pre-trained checkpoint can be downloaded via this [link](https://livejohnshopkins-my.sharepoint.com/:u:/g/personal/cpeng26_jh_edu/EaZmOZRiAYVPgv8H1AdpszkBcvN6mWqqPhm0KR0owWEFjw?e=oXAqTa).
+A pre-trained checkpoint can be downloaded via this [link](https://livejohnshopkins-my.sharepoint.com/:u:/g/personal/cpeng26_jh_edu/EaZmOZRiAYVPgv8H1AdpszkBcvN6mWqqPhm0KR0owWEFjw?e=z34f9J).
+
 
 For FastMRI, the simplified h5 data can be downloaded by following the instructions in [ReconFormer](https://github.com/guopengf/ReconFormer), i.e. through [Link](https://livejohnshopkins-my.sharepoint.com/:f:/g/personal/pguo4_jh_edu/EtXsMeyrJB1Pn-JOjM_UqhUBdY1KPrvs-PwF2fW7gERKIA?e=uuBINy). DiffuseRecon converts it to a normalized format in scripts/data_process.py
 
